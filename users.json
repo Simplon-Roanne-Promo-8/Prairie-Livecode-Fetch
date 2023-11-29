@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "email": "john.doe@gmail.com",
+            "password": "123456",
+            "age": 42,
+            "date_de_naissance": "1978-01-01",
+            "sexe": "Homme",
+            "ville": "Paris",
+            "pays": "France",
+            "telephone": "0123456789"
+        },
+        {
+            "id": 2,
+            "name": "Hamza Karfa",
+            "email": "hamza@garage.com",
+            "password": "123456",
+            "age": 26,
+            "date_de_naissance": "1996-12-29",
+            "sexe": "Homme",
+            "ville": "Roanne",
+            "pays": "France",
+            "telephone": "0123456789"
+        }
+    ]
+}
